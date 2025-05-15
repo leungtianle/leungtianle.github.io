@@ -1,22 +1,3 @@
-![Github Forks](https://img.shields.io/github/forks/Yixin0313/Yixin0313.github.io?style=flat)
-![Github Stars](https://img.shields.io/github/stars/Yixin0313/Yixin0313.github.io?style=flat)
-![License](https://img.shields.io/github/license/Yixin0313/Yixin0313.github.io)
-
-# 通用个人主页模板：适用于学术和求职场景 | A general-purpose template: suitable for both academic and professional use.
-
-## 预览 | Preview
-👉 [Yixin's Homepage](https://yixin0313.github.io/)
-
-## 介绍 | Introduction
-
-这是一个**通用的个人主页模板**，基于 [Sen Li 的学术主页模板](https://github.com/senli1073/senli1073.github.io) 进行修改。  
-
-我新增了**工作经历板块**，使其更加适用于程序员和求职者。并且使用了中英文对照版本。
-
-This is a **general-purpose personal website template**, modified from [Sen Li's academic template](https://github.com/senli1073/senli1073.github.io).  
-
-I have added a **work experience section**, making it more practical for programmers and job seekers.
-
 ## 快速开始 | Getting Start
 ### 1. Fork 该仓库 | Fork this repository
 仓库名称应命名为 `<用户名>.github.io`，这样你的个人网站地址将是 `https://<用户名>.github.io/`。

@@ -1,0 +1,6 @@
+Kaggle Competition: Eedi - Mining Misconceptions in Mathematics                    2024-09 – 2024-12
+- Description: Developed an NLP model to predict the association between incorrect options in mathematics multiple-choice questions and underlying misconceptions, assisting educational experts in efficiently annotating misconceptions and improving teaching quality.
+- Responsibilities:
+  - Proposed an innovative approach: Designed a two-stage model to perform coarse and fine ranking between incorrect options and misconception sets, significantly improving training efficiency without compromising model accuracy.
+  - Main tasks: Utilized Qwen2.5-32B-Instruct as the base model, applied LoRA for fine-tuning, implemented 4-bit quantization, and trained the model using the CrossEntropy loss function. In the second-stage model, employed supervised fine-tuning to optimize misconception ranking and enhance final prediction accuracy.
+- Achievement: The final model won the global Silver Medal (Top 5%).
